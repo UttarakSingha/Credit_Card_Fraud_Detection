@@ -1,5 +1,5 @@
 # Credit_Card_Fraud_Detection
-Credit card fraud detection using Predictive Modeling (Logistic Regression)
+Anonymized credit card transactions labeled as fraudulent or genuine using Predictive Modeling (Logistic Regression)
 
 It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
 
